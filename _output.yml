@@ -1,13 +1,19 @@
 bookdown::gitbook:
   css: style.css
+  toc_depth: 1
+  split_by: chapter
   config:
     toc:
+      collapse: section
+      scroll_highlight: yes
       before: |
         <li><a href="./">Evaluación de Políticas Públicas</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado con bookdown</a></li>
     edit: https://github.com/YOUR_GITHUB_USERNAME/YOUR_BOOK_REPO/edit/master/%s
     download: ["pdf", "epub"]
+    toolbar:
+      position: fixed
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
