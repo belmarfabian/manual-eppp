@@ -1,0 +1,36 @@
+# Análisis de efectos estructurales y sinergias
+
+## Efectos directos vs indirectos
+
+**Efectos directos**: Cambios en beneficiarios directos del programa (ej: niños que reciben alimentación escolar mejoran asistencia)
+
+**Efectos indirectos**: Cambios en no-beneficiarios por externalidades (ej: compañeros de beneficiarios también mejoran asistencia por efecto par)
+
+## Efectos estructurales
+
+Cambios en instituciones, mercados o prácticas que persisten más allá del programa individual. Ejemplos:
+- Programa de capacitación docente que transforma currículo de formación inicial
+- Subsidio de vivienda que modifica mercado inmobiliario local
+- Programa de evaluación que crea cultura de uso de evidencia
+
+## Sinergias entre programas
+
+Programas que operan complementariamente pueden generar efectos superiores a la suma de efectos individuales. Ejemplos:
+- Chile Crece Contigo + Programas de empleo femenino: Sinergia en desarrollo infantil y autonomía económica materna
+- Programas de salud + Programas educacionales: Niños saludables aprenden más
+
+## Metodologías para capturar efectos complejos
+
+Requieren diseños que trascienden comparación simple tratado/control:
+- **Análisis de redes**: Capturar efectos de contagio
+- **Modelos multinivel**: Efectos individuales, comunitarios, territoriales
+- **Estudios longitudinales**: Seguimiento de largo plazo
+- **Métodos mixtos**: Combinar medición cuantitativa con comprensión cualitativa de mecanismos
+
+## Caso: Efectos territoriales del Programa de Recuperación de Barrios
+
+[DESARROLLAR: Efectos en beneficiarios directos, en residentes no participantes, en valorización inmobiliaria, en capital social comunitario]
+
+## Referencias
+
+García Moreno & García López (2014); Zapata & Tejeda (2009)

@@ -1,0 +1,30 @@
+# Sistemas de seguimiento y monitoreo
+
+## Diferencia entre monitoreo y evaluación
+
+**Monitoreo**: Seguimiento continuo de actividades, productos y uso de recursos. Pregunta: ¿Se está ejecutando según planificado?
+
+**Evaluación**: Análisis periódico de resultados e impactos. Pregunta: ¿Se están logrando los objetivos? ¿La intervención es efectiva?
+
+Monitoreo es continuo y descriptivo. Evaluación es episódica y analítica.
+
+## Componentes de un sistema de monitoreo
+
+1. **Indicadores de seguimiento**: Cobertura, ejecución presupuestaria, actividades realizadas
+2. **Fuentes de información**: Registros administrativos, reportes de gestión
+3. **Periodicidad**: Mensual, trimestral, anual
+4. **Responsables**: Unidades de control de gestión
+5. **Productos**: Tableros de control, informes de avance
+6. **Uso**: Correcciones operacionales, alertas tempranas
+
+## Monitoreo en el ciclo de gestión
+
+Monitoreo alimenta evaluación al proveer información longitudinal sobre implementación. Programas sin sistemas de monitoreo robustos dificultan evaluaciones posteriores por carencia de datos de proceso.
+
+## Caso: Sistema de monitoreo de programa social
+
+[DESARROLLAR: Tablero de control con indicadores de proceso, producto, cobertura, presupuesto. Incluir alertas y umbrales]
+
+## Referencias
+
+Bonnefoy & Armijo (2005); Ortegón, Pacheco & Prieto (2005)

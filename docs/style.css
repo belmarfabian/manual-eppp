@@ -1,0 +1,76 @@
+/* Estilos personalizados para el bookdown */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  color: #2c3e50;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal {
+  max-width: 800px;
+}
+
+/* Cajas de ejercicios */
+.ejercicio {
+  background-color: #f0f8ff;
+  border-left: 4px solid #3498db;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+/* Cajas de casos */
+.caso {
+  background-color: #fff8e1;
+  border-left: 4px solid #ffc107;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+/* Cajas de referencias */
+.referencias {
+  background-color: #f5f5f5;
+  padding: 15px;
+  margin: 20px 0;
+  font-size: 0.9em;
+}
+
+/* Tablas */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+
+table th {
+  background-color: #34495e;
+  color: white;
+  padding: 12px;
+  text-align: left;
+}
+
+table td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+table tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* Código */
+code {
+  background-color: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto;
+}

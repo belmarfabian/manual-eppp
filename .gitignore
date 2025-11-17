@@ -1,0 +1,23 @@
+# R and RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Bookdown files
+/_bookdown_files/
+/*.log
+/*.rds
+
+# Output files (keep docs for GitHub Pages)
+# Uncomment if you don't want to commit the compiled book
+# /docs/
+
+# Cache files
+*_cache/
+*_files/
+
+# OS files
+.DS_Store
+Thumbs.db

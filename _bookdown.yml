@@ -1,0 +1,27 @@
+book_filename: "evaluacion_politicas_publicas"
+language:
+  ui:
+    chapter_name: "Capítulo "
+delete_merged_file: true
+output_dir: "docs"
+rmd_files: [
+  "index.Rmd",
+  "01-introduccion.Rmd",
+  "02-enfoques.Rmd",
+  "03-marco-institucional.Rmd",
+  "04-gobierno-abierto.Rmd",
+  "05-evaluacion-diseno.Rmd",
+  "06-arbol-problemas.Rmd",
+  "07-marco-logico.Rmd",
+  "08-indicadores.Rmd",
+  "09-monitoreo.Rmd",
+  "10-evaluacion-procesos.Rmd",
+  "11-evaluacion-resultados.Rmd",
+  "12-evaluacion-impacto.Rmd",
+  "13-metodos-cuantitativos.Rmd",
+  "14-efectos-sinergias.Rmd",
+  "15-casos-chile.Rmd",
+  "16-informes.Rmd",
+  "17-etica.Rmd",
+  "99-referencias.Rmd"
+]

@@ -1,0 +1,39 @@
+# (PART) Evaluación de Resultados e Impacto {-}
+
+# Evaluación de procesos y gestión
+
+## Concepto de evaluación de procesos
+
+Examina CÓMO se implementa un programa: fidelidad al diseño, calidad de ejecución, eficiencia operacional, obstáculos y facilitadores. Identifica brechas entre implementación planificada y real.
+
+## Preguntas típicas
+
+- ¿Las actividades se ejecutan según cronograma y calidad esperada?
+- ¿Los beneficiarios reciben productos/servicios según diseño?
+- ¿Existen cuellos de botella operacionales?
+- ¿Qué factores facilitan u obstaculizan la implementación?
+- ¿Cómo varía la implementación entre territorios o unidades ejecutoras?
+
+## Métodos de evaluación de procesos
+
+1. **Análisis de registros administrativos**: Cobertura real, tiempos de entrega, costos unitarios
+2. **Entrevistas a implementadores**: Gestores, operadores de ventanilla, proveedores
+3. **Observación directa**: Visitas a puntos de atención
+4. **Grupos focales con beneficiarios**: Experiencias de acceso y calidad
+5. **Análisis de reclamos/sugerencias**
+
+## Utilidad
+
+Evaluaciones de procesos son especialmente valiosas cuando:
+- Programas nuevos sin evidencia previa de implementación
+- Programas con resultados débiles (para identificar si el problema está en diseño o ejecución)
+- Programas descentralizados con variabilidad territorial
+- Preparación para escalamiento
+
+## Caso: Evaluación de procesos del Subsistema Chile Crece Contigo
+
+[DESARROLLAR: Análisis de tiempos de espera, cobertura efectiva vs nominal, calidad de atención según usuarios]
+
+## Referencias
+
+Pignatta (2015); DIPRES (2015)
